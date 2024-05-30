@@ -2,7 +2,7 @@ Movie Recommendation System
 
     Project Overview
     
-        The Movie Recommendation System is a Python-based application designed to       recommend movies to users based on their preferences and behaviors. The project involves data collection from sources like IMDb or TMDb, the implementation of recommendation algorithms, and the creation of a web interface to display the recommendations.
+        The Movie Recommendation System is a Python-based application designed to recommend movies to users based on their preferences and behaviors. The project involves data collection from sources like IMDb or TMDb, the implementation of recommendation algorithms, and the creation of a web interface to display the recommendations.
 
 Key Features
 
